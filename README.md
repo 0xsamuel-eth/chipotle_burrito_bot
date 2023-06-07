@@ -58,5 +58,8 @@ ___
 
 * The twitter API has a 250 request per 15 minutes per account limit. Thus, if the script does not seem to be working, but it is able to locate the imessage window, the API request is likely timing out. (250 seconds / 2 seconds per request $\approx$ 8.3 minutes of continuous runtime before timing out).
 
+___
+## Credit
+* credit to [awliu2](https://github.com/awliu2/), [baolong281](https://github.com/baolong281/), and [EvilWumpus](https://github.com/EvilWumpus/) for creating repos with similar intentions and code. A lot of what is compiled here is mixed and matched from these three repos, the majority being from the forked repo of [awliu2/free-burritos](https://github.com/awliu2/free-burritos).
 
-* credit to [baolong281](https://github.com/baolong281/infinite-food-glitch) for the twscrape code, 
+* credit to [baolong281](https://github.com/baolong281/infinite-food-glitch) for the twscrape code used in original repo
