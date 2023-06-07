@@ -1,5 +1,5 @@
-# 🌯 Burrito Bot
-### A bot to automate the chipotle three-pointer promo codes during the 2023 NBA finals, using the [twscrape](https://github.com/vladkens/twscrape) API scrapper.
+# Twitter->Message Bot
+### A bot to automate Tweet code-to-message promotions, using the [twscrape](https://github.com/vladkens/twscrape) API scrapper.
 
 ___
 ## Install & Requirements
