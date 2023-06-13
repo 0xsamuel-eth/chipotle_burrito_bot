@@ -1,5 +1,5 @@
 login = {
-        "email" : "john@gmail.com",
-        "username" : "johnstwitter",
-        "password" : "password123",
+        "email" : "sammmastenn@gmail.com",
+        "username" : "MastenSam",
+        "password" : "5m0k3yH0ck3y12$",
     }
