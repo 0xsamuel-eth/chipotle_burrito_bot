@@ -1,5 +1,5 @@
 # Twitter->Message Bot
-### A bot to automate Tweet code-to-message promotions, using the [twscrape](https://github.com/vladkens/twscrape) API scrapper.
+### A bot to automate Chipotle Tweet code-to-message promotions, using the [twscrape](https://github.com/vladkens/twscrape) API scrapper.
 
 ___
 ## Install & Requirements
